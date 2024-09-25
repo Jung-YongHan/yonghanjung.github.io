@@ -3,26 +3,26 @@
 title: 정용한
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jung Yong Han
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: 용한
+last_name: 정
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Undergraduate research student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: SSELab
+    url: https://sites.google.com/view/jbnussel/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
