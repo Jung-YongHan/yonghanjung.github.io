@@ -55,13 +55,14 @@ education:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
   - area: Frontend Software Engineer
-    institution: SSELab
+    institution: SSELab(System Software Engineering Laboratory)
     date_start: 2023-10-04
     date_end: ''
     summary: |
       Responsibilities include:
-      - Designing the UI for a cryptocurrency quantitative investment platform website.
+      - Developing the UI for a cryptocurrency quantitative investment platform website.
       - Developing machine learning investment algorithms.
+
   # - position: Backend Software Engineer
   #   company_name: X
   #   company_url: ''
