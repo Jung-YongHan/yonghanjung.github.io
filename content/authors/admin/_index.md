@@ -82,7 +82,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 70
+        percent: 80
         icon: python
       - name: JavaScript
         description: ''
@@ -90,7 +90,7 @@ skills:
         icon: devicon/javascript
       - name: Kotlin
         description: ''
-        percent: 80
+        percent: 50
         icon: devicon/kotlin
   - name: Framework
     color: '#eeac02'
