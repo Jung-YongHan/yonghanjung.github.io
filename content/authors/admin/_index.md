@@ -99,7 +99,7 @@ skills:
       - name: Excercise
         description: ''
         percent: 60
-        icon: exercise
+        icon: person
       - name: Explore
         description: ''
         percent: 80
