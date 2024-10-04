@@ -83,15 +83,15 @@ skills:
       - name: Python
         description: ''
         percent: 70
-        icon: devicon/python
+        icon: python
       - name: JavaScript
         description: ''
         percent: 90
-        icon: devicon/javascript
-      - name: TypeScript
+        icon: js
+      - name: Kotlin
         description: ''
         percent: 80
-        icon: devicon/typescript
+        icon: kotlin
   - name: Framework
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -106,9 +106,9 @@ skills:
         percent: 1
         icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" />
           
-      - name: Webstorm
+      - name: Flutter
         description: ''
-        percent: 100
+        percent: 10
         icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
           
 
