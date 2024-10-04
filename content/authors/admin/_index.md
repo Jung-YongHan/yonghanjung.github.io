@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 정용한
+title: Jung Yong Han
 
 # Name pronunciation (optional)
-name_pronunciation: Jung Yong Han
+name_pronunciation: 정용한
 
 # Full name (for SEO)
 first_name: 용한
@@ -116,9 +116,9 @@ skills:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+  - title: Stock Impact Prediction System for News Based on LDA TopicModeling and Machine Learning
+    url: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11825531&googleIPSandBox=false&mark=0&minRead=5&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true
+    date: '2024-05-24'
     awarder: Coursera
     icon: coursera
     summary: |
