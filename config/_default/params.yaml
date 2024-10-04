@@ -30,7 +30,7 @@ marketing:
 header:
   navbar:
     # Display the navigation bar?
-    enable: true
+    enable: false
     # Choose a built-in navigation blox or create your own
     blox: "navbar"
     # Align menu links: `left`, `center`, or `right`
