@@ -82,16 +82,16 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 70
         icon: devicon/python
-      - name: RStudio
+      - name: JavaScript
         description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
+        percent: 90
+        icon: devicon/javascript
+      - name: TypeScript
         description: ''
-        percent: 40
-        icon: devicon/pytorch
+        percent: 90
+        icon: devicon/typescript
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
