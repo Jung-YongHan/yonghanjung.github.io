@@ -12,9 +12,8 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: ''
+    org_name: 'Jung Yong Han'
+    description: '전북대학교 정용한'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
