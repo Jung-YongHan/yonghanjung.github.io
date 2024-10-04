@@ -41,7 +41,7 @@ profiles:
 
 education:
   - area: BS Software Engineering, Expected 2025
-    institution: Jeonbuk National University
+    institution: Jeonbuk National University(JBNU)
     date_start: 2019-03-02
     date_end: 2025-02-20
     summary: |
@@ -55,7 +55,7 @@ education:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
   - area: Frontend Software Engineer
-    institution: SSELab(System Software Engineering Laboratory)
+    institution: System Software Engineering Laboratory(SSELab)
     date_start: 2023-10-04
     date_end: ''
     summary: |
