@@ -87,11 +87,11 @@ skills:
       - name: JavaScript
         description: ''
         percent: 90
-        icon: js
+        icon: devicon/javascript
       - name: Kotlin
         description: ''
         percent: 80
-        icon: kotlin
+        icon: devicon/kotlin
   - name: Framework
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -99,17 +99,17 @@ skills:
       - name: Vue.js
         description: ''
         percent: 90
-        icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+        icon: devicon/vue
           
       - name: Nuxt.js
         description: ''
         percent: 1
-        icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" />
+        icon: devicon/vuejs
           
       - name: Flutter
         description: ''
         percent: 10
-        icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
+        icon: devicon/flutter
         
 # Awards.
 #   Add/remove as many awards below as you like.
