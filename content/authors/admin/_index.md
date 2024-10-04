@@ -99,12 +99,12 @@ skills:
       - name: Vue.js
         description: ''
         percent: 90
-        icon: devicon/vue
+        icon: devicon/vuejs
           
       - name: Nuxt.js
         description: ''
         percent: 1
-        icon: devicon/vuejs
+        icon: devicon/nuxtjs
           
       - name: Flutter
         description: ''
