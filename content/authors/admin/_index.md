@@ -90,7 +90,7 @@ skills:
         icon: devicon/javascript
       - name: TypeScript
         description: ''
-        percent: 90
+        percent: 80
         icon: devicon/typescript
   - name: Hobbies
     color: '#eeac02'
